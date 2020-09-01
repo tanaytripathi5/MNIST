@@ -1,0 +1,2 @@
+# MNIST
+Classic mnist dataset
